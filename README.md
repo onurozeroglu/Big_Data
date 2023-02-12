@@ -1,10 +1,2 @@
 # large data will be updated soon
-# links for other works
-#1
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1816704153314946/3340092398179360/8811546696547224/latest.html?classId=e67734db-5281-4a85-8472-1e5576acb7ed&assignmentId=98e912a1-5d83-46a5-8b3e-1bd16317306d&submissionId=31266c50-aaaf-f3ca-d0b2-b23d97c67c9f
-#2
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1816704153314946/1385292525546813/8811546696547224/latest.html?classId=e67734db-5281-4a85-8472-1e5576acb7ed&assignmentId=22e3da6b-6c29-4037-9aec-c7bdbcde0585&submissionId=4cd51c7a-1841-fc26-06c6-878629f808cb
-#3
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1816704153314946/587882494060226/8811546696547224/latest.html?classId=e67734db-5281-4a85-8472-1e5576acb7ed&assignmentId=629e0d95-66fd-44f9-80c9-e965fe57e032&submissionId=de015e0c-9f47-671d-223c-55c8d987bc32
-#4
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027e
+
